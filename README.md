@@ -4,9 +4,8 @@
 #### RA: 1460481911089
 
 
-<ol>
-<li>entrega_introducao
-<ol>
-<li>Verificação se um eleitor é apto ou não a votar</li>
-</ol>
+
+- entrega_introducao
+  - Verificação se um eleitor é apto ou não a votar</li>
+
 
